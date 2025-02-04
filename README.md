@@ -127,3 +127,4 @@ The Laravel Multipurpose Ecommerce Application is a powerful platform for managi
 
 ## Things installed 
 - php artisan storage:link
+- npm install daisyui
