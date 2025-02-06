@@ -111,7 +111,7 @@ export default function Register() {
                             <Link
                                 href={route('login')}
                                 className="link">
-                                Already registered? ibeere
+                                Already registered?
                             </Link>
 
                             <PrimaryButton className="ms-4" disabled={processing}>
