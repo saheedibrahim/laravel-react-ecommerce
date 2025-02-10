@@ -130,3 +130,4 @@ The Laravel Multipurpose Ecommerce Application is a powerful platform for managi
 - npm install daisyui
 - install laravel/spatie
 -composer require filament/filament
+- php artisan make:filament-resource Department
